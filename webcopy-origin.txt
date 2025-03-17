@@ -1,0 +1,444 @@
+Uri: https://atomaulas.com.br/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://atomaulas.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://atomaulas.com.br/feed/
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://atomaulas.com.br/oplano/
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\oplano\index-1.htm
+Content Type: text/html
+
+Uri: https://atomaulas.com.br/oplano/?utm_source=instagram&utm_medium=carolpaiffer&utm_term=bio&utm_campaign=captaçãoppm
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\oplano\index.htm
+Content Type: text/html
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor-pro\assets\css\conditionals\popup.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-shrink.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.1.5
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.1.5
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/plugins/leadin/build/elementor.css?ver=11.2.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\leadin\build\elementor.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/plugins/leadin/public/assets/style/leadin.css?ver=11.2.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\plugins\leadin\public\assets\style\leadin.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.3.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.3.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.3.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.3.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/02/atom-logo-minimal.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\02\atom-logo-minimal.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/02/cropped-favcon-atom-hub-1-180x180.png
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\02\cropped-favcon-atom-hub-1-180x180.png
+Content Type: image/png
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/02/cropped-favcon-atom-hub-1-192x192.png
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\02\cropped-favcon-atom-hub-1-192x192.png
+Content Type: image/png
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/02/cropped-favcon-atom-hub-1-32x32.png
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\02\cropped-favcon-atom-hub-1-32x32.png
+Content Type: image/png
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/aks.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\aks.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/aprnedizadotxt.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\aprnedizadotxt.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/aviso.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\aviso.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/avisore.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\avisore.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/carol-paiffer-2.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\carol-paiffer-2.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/com-quem.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\com-quem.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893-1061x2048.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893-1061x2048.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893-155x300.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893-155x300.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893-531x1024.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893-531x1024.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893-768x1482.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893-768x1482.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893-796x1536.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893-796x1536.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1893.webp
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1893.webp
+Content Type: image/webp
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1902.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1902.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/Group-1904.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\Group-1904.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/live.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\live.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/MOB-02.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\MOB-02.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/O-QUE-VOCE-vai-descobrir_.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\O-QUE-VOCE-vai-descobrir_.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/oplaono.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\oplaono.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/plan.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\plan.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/prreenca.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\prreenca.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/2025/03/services_infos-wrap-1-223.svg
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\2025\03\services_infos-wrap-1-223.svg
+Content Type: image/svg+xml
+
+Uri: https://atomaulas.com.br/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1742076262
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\elementor\css\custom-frontend.min.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/uploads/elementor/css/post-5611.css?ver=1742076262
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\elementor\css\post-5611.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/uploads/elementor/css/post-5659.css?ver=1742076262
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\elementor\css\post-5659.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1742076262
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://atomaulas.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://atomaulas.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://atomaulas.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fatomaulas.com.br%2Foplano%2F
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://atomaulas.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fatomaulas.com.br%2Foplano%2F&format=xml
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://atomaulas.com.br/wp-json/wp/v2/pages/5611
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\wp-json\wp\v2\pages\5611
+Content Type: application/json
+
+Uri: https://atomaulas.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://js.hs-scripts.com/
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\index.htm
+Content Type: text/html
+
+Uri: https://js.hs-scripts.com/48226823.js
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\48226823.js
+Content Type: application/javascript
+
+Uri: https://js.hs-scripts.com/48226823.js?integration=WordPress&ver=11.2.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\48226823-1.js
+Content Type: application/javascript
+
+Uri: https://js.hsforms.net/forms/embed/v2.js?ver=11.2.0
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\forms\embed\v2.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=1431467901138027&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=520865198087897&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\atomaulas.com.br\tr
+Content Type: text/plain
+
